@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+how are u doing today?
+im doing fine, thank you for asking!
+
+
+
 <!--
 **Fish-o/fish-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
