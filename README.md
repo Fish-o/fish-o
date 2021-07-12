@@ -4,7 +4,7 @@ how are u doing today?
 im doing fine, thank you for asking!
 
 
-![Fishies github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Fishies github stats](https://github-readme-stats.vercel.app/api?username=fish-o)
 <!--
 **Fish-o/fish-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
