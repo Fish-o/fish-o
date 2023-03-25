@@ -25,6 +25,8 @@ https://kaas-frontend.vercel.app/
 
 https://kaas-frontend.vercel.app/create
 
+Repo: https://github.com/Fish-o/KaaS-frontend (the code is a bit messy)
+
 #### The VR Party League Site
 A site which can be used to organize tournaments. 
 It's hopelessly overengineered with Vercel's on-demand incremental static regeneration (that together with Next.js's page caching results in each page loading seemingly instant), a self set up clustered database, and a full oauth2 server
