@@ -5,6 +5,13 @@ I love coding, designing weird and complex systems, and learning new things.
 
 #### Some of my cool projects:
 
+##### FishLang
+
+A simple programming language and interpreter, built from scratch in rust!
+
+https://github.com/Fish-o/fish-lang
+
+
 ##### Kaarten As A Service
 [WIP] A platform that enables users to create whatever card game they desire. 
 It uses a scratch like interface to lets users create their own card games with simple logic blocks.
