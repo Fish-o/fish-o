@@ -21,7 +21,7 @@ https://github.com/Fish-o/fish-lang
 [WIP] A platform that enables users to create whatever card game they desire. 
 It uses a scratch like interface to lets users create their own card games with simple logic blocks.
 The scripting langauge is very powerful and should be usable to create anything from uno to petiance.
-**All** logic is handled on the client, and it used public private key cryptography to verify people's identity. 
+**All** logic is handled on the client, and it uses public private key cryptography to verify people's identity. 
 
 https://kaas-frontend.vercel.app/
 
