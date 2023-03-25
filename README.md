@@ -31,6 +31,9 @@ It's hopelessly overengineered with Vercel's on-demand incremental static regene
 
 https://vrpartyleague.com/
 
+A playground for the backend can be found here: 
+https://api.vrpartyleague.com/graphql go here obtain an api key (needed for certain mutations) https://vrpartyleague.com/giveMeMyApiKeyEvenThoughItsDangerous
+
 
 
 
