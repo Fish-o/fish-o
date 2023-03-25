@@ -10,7 +10,9 @@ I've done a lot of web development (experienced with next.js/react and backend d
 
 #### FishLang
 
-A simple programming language and interpreter, built from scratch in rust!
+A simple programming language and interpreter, built from scratch in Rust!
+
+It has a tokenizer, parser and interpreter. It's build to be very adaptable and customizable, with heavy usage of Rust's match statement.
 
 https://github.com/Fish-o/fish-lang
 
