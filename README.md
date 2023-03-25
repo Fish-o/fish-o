@@ -8,7 +8,7 @@ I've done a lot of web development (experienced with next.js/react and backend d
 
 ## Some of my cool projects:
 
-#### FishLang
+### FishLang
 
 A simple programming language and interpreter, built from scratch in Rust!
 
@@ -17,7 +17,7 @@ It has a tokenizer, parser and interpreter. It's build to be very adaptable and 
 https://github.com/Fish-o/fish-lang
 
 
-#### Kaarten As A Service
+### Kaarten As A Service
 [WIP] A platform that enables users to create whatever card game they desire. 
 It uses a scratch like interface to lets users create their own card games with simple logic blocks.
 The scripting langauge is very powerful and should be usable to create anything from uno to petiance.
@@ -29,7 +29,7 @@ https://kaas-frontend.vercel.app/create
 
 Repo: https://github.com/Fish-o/KaaS-frontend (the code is a bit messy)
 
-#### The VR Party League Site
+### The VR Party League Site
 A site which can be used to organize tournaments. 
 It's hopelessly overengineered with Vercel's on-demand incremental static regeneration (that together with Next.js's page caching results in each page loading seemingly instant), a self set up clustered database, and a full oauth2 server
 
