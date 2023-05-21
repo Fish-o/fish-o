@@ -1,7 +1,7 @@
 # Hi there 👋
 Im fish, obviously not my real name, but i value my privacy :) 
 
-I will be attending the bachelor Technical Computer Science in U-Twente next year.
+I'm a highschool who will be doing Technical Computer Science at U-Twente next year.
 I love coding, designing weird and complex systems, and learning new things!
 
 I've done a lot of web development (experienced with next.js/react and backend dev using graphql, oauth2, mongodb/postgress and node.js) but most of my current projects are small projects done in rust.
