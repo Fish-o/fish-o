@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Im Conner, a Technical Computer Science student at U-Twente.
+I'm Conner, a Technical Computer Science student at U-Twente.
 I love coding, designing weird and complex systems, and learning new things!
 
 I've done a lot of web development (experienced with next.js/react and backend dev using graphql, oauth2, mongodb/postgress and node.js) but most of my current projects are small projects done in rust.
@@ -18,7 +18,7 @@ https://github.com/Fish-o/fish-lang
 
 
 ### Kaarten As A Service
-[WIP] A platform that enables users to create whatever card game they desire. 
+~[WIP]~ [ABANDONED] A platform that enables users to create whatever card game they desire. 
 It uses a scratch like interface to lets users create their own card games with simple logic blocks.
 The scripting langauge is very powerful and should be usable to create anything from uno to petiance.
 **All** logic is handled on the client, and it uses public private key cryptography to verify people's identity. 
