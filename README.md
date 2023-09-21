@@ -1,7 +1,6 @@
 # Hi there 👋
-Im fish, obviously not my real name, but i value my privacy :) 
 
-I'm a Technical Computer Science student at U-Twente.
+Im Conner, a Technical Computer Science student at U-Twente.
 I love coding, designing weird and complex systems, and learning new things!
 
 I've done a lot of web development (experienced with next.js/react and backend dev using graphql, oauth2, mongodb/postgress and node.js) but most of my current projects are small projects done in rust.
