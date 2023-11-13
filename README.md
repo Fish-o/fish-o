@@ -16,6 +16,11 @@ It has a tokenizer, parser and interpreter. It's build to be very adaptable and 
 
 https://github.com/Fish-o/fish-lang
 
+### Advent of Code 2022
+
+My attempt at the 2022 advent of code, done in november 2023 as preperation of AoC 2023!
+
+https://github.com/Fish-o/aoc-2022
 
 ### Kaarten As A Service
 ~[WIP]~ [ABANDONED] A platform that enables users to create whatever card game they desire. 
