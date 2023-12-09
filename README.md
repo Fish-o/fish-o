@@ -5,6 +5,13 @@ I love coding, designing weird and complex systems, and learning new things!
 
 I've done a lot of web development (experienced with next.js/react and backend dev using graphql, oauth2, mongodb/postgress and node.js) but most of my current projects are small projects done in rust.
 
+## Advent of code 2023
+
+Im participating in Advent of Code this year!
+Check this repo to view my progress and code.
+
+https://github.com/Fish-o/aoc-2023
+
 
 ## Some of my cool projects:
 
